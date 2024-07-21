@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OrangeTask/.vs
+/OrangeTask/Application/bin/Debug/net8.0
+/OrangeTask/Domain/bin/Debug/net8.0
+/OrangeTask/Domain/obj
+/OrangeTask/OrangeTask/bin/Debug/net8.0
+/OrangeTask/OrangeTask/obj
